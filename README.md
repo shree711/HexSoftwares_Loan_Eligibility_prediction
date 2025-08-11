@@ -35,9 +35,3 @@ The dataset used in this project is `LoanApprovalPrediction.csv`, which includes
   - Logistic Regression
   - Random Forest Classifier
 - Evaluation: Accuracy, Confusion Matrix, Classification Report
-
-## How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/loan-eligibility-prediction.git
